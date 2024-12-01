@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of Automation Science and Electrical Engineering](https://eecs.pku.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a fifth-year Ph.D. student from the [School of Automation Science and Electrical Engineering](http://dept3.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). My research interest includes resilient coordination and optimization, event-triggering mechanism, graph robustness, and cooperative situational awareness.
 
 A data-driven personal website
 ======
